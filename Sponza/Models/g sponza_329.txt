@@ -1,1 +1,0 @@
-Materials/fabric_g.xml
