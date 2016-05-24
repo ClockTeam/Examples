@@ -38,7 +38,6 @@
 		<attribute name="Variables" />
 		<component type="Light" id="403">
 			<attribute name="Light Type" value="Directional" />
-			<attribute name="Brightness Multiplier" value="2" />
 			<attribute name="Range" value="100" />
 			<attribute name="Cast Shadows" value="true" />
 		</component>
